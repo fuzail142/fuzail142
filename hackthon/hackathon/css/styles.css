@@ -1,0 +1,72 @@
+/* css/styles.css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f7f7f7;
+}
+
+.card {
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.card h2 {
+    margin-bottom: 20px;
+}
+
+form {
+    margin-top: 15px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+}
+/* css/styles.css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.card {
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.card h2 {
+    margin-bottom: 20px;
+}
+
+form {
+    margin-top: 15px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+    width: 100%;
+}
+
+#resultMessage {
+    margin-top: 20px;
+}
